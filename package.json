@@ -1,0 +1,10 @@
+{
+  "name": "minesync",
+  "version": "0.0.1",
+  "description": "A Minecraft Typescript API with a functional asynchronous focus.",
+  "main": "index.js",
+  "repository": "https://github.com/ggzorgg/minesync",
+  "author": "ggzorgg <41978414+ggzorgg@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false
+}
