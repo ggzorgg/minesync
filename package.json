@@ -7,8 +7,18 @@
   "author": "ggzorgg <41978414+ggzorgg@users.noreply.github.com>",
   "license": "MIT",
   "private": false,
-  "devDependencies": {
-    "tslint": "^5.12.0",
-    "typescript": "^3.2.2"
+  "dependencies": {
+    "@types/lodash": "^4.14.119",
+    "@types/node": "^10.12.18",
+    "fluture": "^10.3.0",
+    "immutable": "^4.0.0-rc.12",
+    "lodash": "^4.17.11",
+    "minecraft-data": "^2.35.0",
+    "mineflayer": "^2.7.3",
+    "mineflayer-blockfinder": "^0.0.7",
+    "mineflayer-navigate": "^0.0.10",
+    "purify-ts": "^0.11.0",
+    "rambda": "^2.2.0",
+    "vec3": "^0.1.3"
   }
 }
